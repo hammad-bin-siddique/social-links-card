@@ -1,44 +1,57 @@
-# Responsive Social Links Card
+# Social Links Card
  
-A modern **responsive social links card** created as a Frontend Mentor challenge.  
-This card displays a user profile with social links, fully responsive for mobile and desktop.
+A responsive social links card built as a solution to the [Frontend Mentor challenge](https://www.frontendmentor.io/challenges/social-links-profile-UG32l9m6dQ).
  
-## 🌟 Features
-- Fully responsive design (mobile & desktop)
-- Hover effects on social links
-- Clean layout with profile image and background
-- Easy to customize colors and fonts
-- Smooth transitions and animations
-- Semantic HTML structure
-- Cross-browser compatible
+## 🔗 Live Demo
+ 
+**[social-links-card-five.vercel.app](https://social-links-card-five.vercel.app/)**
+ 
+---
  
 ## 📸 Screenshots
  
 ### Desktop View
-![Social Links Card Desktop](screenshots/Social%20Links%20Card%20Desktop.png)
+![Desktop View](screenshots/Social%20LInks%20Card%20Desktop.png)
  
 ### Mobile View
-![Social Links Card Mobile](screenshots/Social%20Links%20Card%20Mobile.png)
+![Mobile View](screenshots/Social%20Links%20Card%20Mobile.png)
  
-## 🛠️ Technologies Used
-- **HTML5** - Semantic markup
-- **CSS3** - Flexbox, Grid, animations & transitions
-- **Google Fonts** - Custom typography
-- **Responsive Design** - Mobile-first approach
+---
  
-## 📂 File Structure
+## 🛠️ Built With
+ 
+- Semantic HTML5
+- CSS3 — Flexbox, transitions
+- Google Fonts
+- Mobile-first responsive design
+ 
+---
+ 
+## 📁 Project Structure
+ 
 ```
-Responsive Social Links Card/
-│
-├── index.html                          # Main HTML file
-├── style.css                           # All styling and animations
-├── README.md                           # Project documentation
-│
+social-links-card/
+├── index.html
+├── style.css
+├── README.md
 ├── images/
-│   ├── avatar-jessica.jpeg            # User profile image
-│   └── favicon-32x32.png              # Browser favicon
-│
+│   ├── avatar-jessica.jpeg
+│   └── favicon-32x32.png
 └── screenshots/
-    ├── Social Links Card Desktop.png  # Desktop screenshot
-    └── Social Links Card Mobile.png   # Mobile screenshot
+    ├── Social Links Card Desktop.png
+    └── Social Links Card Mobile.png
 ```
+ 
+---
+ 
+## 👤 Author
+ 
+**Hammad bin Siddique**
+- GitHub: [@hammad-bin-siddique](https://github.com/hammad-bin-siddique)
+ 
+---
+ 
+## 🙏 Acknowledgments
+ 
+Challenge by [Frontend Mentor](https://www.frontendmentor.io/)
+ 
